@@ -15,11 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <None Include="SImpleESP8266.ino" />
+    <None Include="ConnectMyNetwork.ino" />
   </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="__vm\.SImpleESP8266.vsarduino.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-  </ItemGroup>
+ 
 </Project>

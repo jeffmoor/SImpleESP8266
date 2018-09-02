@@ -15,10 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <None Include="SImpleESP8266.ino" />
+    <None Include="HTTPInterface.ino" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="__vm\.SImpleESP8266.vsarduino.h">
+    <ClInclude Include="__vm\.HTTPInterface.vsarduino.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
